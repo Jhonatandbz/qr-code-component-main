@@ -31,6 +31,7 @@ p{
 }
 
 .card{
+  object-fit: cover;
   background-color: hsl(0, 0%, 100%);
   display: flex;
   flex-direction: column;
